@@ -97,7 +97,7 @@ void InitList(struct list * plist,char *name)
 
 int main()
 {
-    printf("List_test!!!\r\n");
+    printf("List_test!!!!!!\r\n");
 
 	struct list list_A;//定义链表
 	struct person p[]={
